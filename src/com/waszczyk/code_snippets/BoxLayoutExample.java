@@ -4,6 +4,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.Color;
 
+
 public class BoxLayoutExample{
 
     public JPanel createContentPane (){
